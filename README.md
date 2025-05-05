@@ -1,1 +1,1 @@
-# oraclecloudscripts
+# Oracle Cloud Scripts for Ubuntu
